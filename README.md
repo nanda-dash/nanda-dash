@@ -5,7 +5,8 @@
 
 - Proficient in C/C++ programming languages
 - Experience with embedded systems programming using ARM Cortex-M microcontrollers
-- Familiarity with communication protocols such as I2C, SPI, UART, and CAN
+- Experience with data anlalysis, algorithm development and simulation using MATLAB
+- Familiarity with communication protocols such as I2C, SPI, UART and CAN
 - Experience with hardware design using Altium Designer
 - Familiarity with PCB fabrication and assembly processes
 - Experience with circuit simulation using LTspice
